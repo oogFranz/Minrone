@@ -70,7 +70,7 @@ miro.onReady(() => {
           title: 'kintone',
           svgIcon: icon24,
           onClick: () => {
-            alert('Hi!')
+            
           }
         }
       }
