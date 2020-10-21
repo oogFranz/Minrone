@@ -70,7 +70,7 @@ miro.onReady(() => {
           title: 'kintone',
           svgIcon: icon24,
           onClick: () => {
-            
+            miro.board.ui.openModal('https://oogfranz.github.io/Minrone/modal.html');
           }
         }
       }
